@@ -1,0 +1,12 @@
+﻿Name	                   Quantity	 Supplier Part	     Price	       link
+"220nF"	                   "1"	      "C21120"	          "0.014"	    "https://item.szlcsc.com/362304.html"
+"17-21SUYC/TR8"	           "1"	      "C2296"	          "0.012"	    "https://item.szlcsc.com/88042.html"
+"47Ω"	                   "1"        "C23182"       	  "0.004"	    "https://www.mouser.in/datasheet/2/447/PYu_RT_1_to_0_01_RoHS_L_11-1669912.pdf"
+"NT3H2111W0FHKH"	       "1"	      "C710403"	          "0.622"     	"https://www.nxp.com/docs/en/data-sheet/NT3H2111_2211.pdf"
+"25X48MM_NFC_ANTENNA"	   "1"	      "NOT A COMPONENT (TRACE)"         "USER CONTRIBUTED"
+"PCB"                      "5"                            "$2.00"       "jlcpcb.com"                                                                             
+"PN532 NFC Module"         "1"                            "$4.78"       "https://www.amazon.in/gp/product/B0H7PXVVGL/ref=ewc_pr_img_2?smid=ALBGRW4X50PVP&psc=1"
+"CP2102 USB to UART"       "1"                            "$4.14"       "https://www.amazon.in/gp/product/B0BB73PKL3/ref=ewc_pr_img_1?smid=A394MJGYEIL46Y&psc=1"
+"Total"                    "12"                           "$11.572"
+"SMT, Customs & Shipping"                                 "$17.478 (for all components)"
+"Grand Total"                                             "$29.05"
