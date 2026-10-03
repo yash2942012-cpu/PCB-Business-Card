@@ -30,12 +30,13 @@ Here is the Design of mine
 ## JLCPCB Cart Screenshot
 <img width="959" height="498" alt="image" src="https://github.com/user-attachments/assets/c39ccce1-7c5d-44c3-b196-27d3d036c2a0" />
 
-### Total - $19.55 (including shipping)
+## BOM
+ - Including all the charges
 
-### Also I will need some more components to make the NFC working
- 1. PN532 NFC reader and writer module here is the link - [amazon.in](https://www.amazon.in/gp/product/B0H7PXVVGL/ref=ewc_pr_img_2?smid=ALBGRW4X50PVP&psc=1)
- 2. CP2102 USB 2.0 to TTL UART Serial converter Module link - [amazon.in](https://www.amazon.in/gp/product/B0BB73PKL3/ref=ewc_pr_img_1?smid=A394MJGYEIL46Y&psc=1)
- Total for these - $9.36 (including shipping)
-
-## Grand Total $28.91
+Item                                                  |Price           |Link                                                                                     |
+------------------------------------------------------|----------------|-----------------------------------------------------------------------------------------|
+PCB + SMT (incl. shipping)                            |$19.55          |[jlcpcb.com](https://jlcpcb.com)                                                         |
+PN532 NFC reader and writer module                    |$5.00           |https://www.amazon.in/gp/product/B0H7PXVVGL/ref=ewc_pr_img_2?smid=ALBGRW4X50PVP&psc=1    |
+CP2102 USB 2.0 to TTL UART Serial converter Module    |$4.50           |https://www.amazon.in/gp/product/B0BB73PKL3/ref=ewc_pr_img_1?smid=A394MJGYEIL46Y&psc=1   |
+Total                                                 |$29.05          |                                                                                         |
  
